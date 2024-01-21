@@ -50,7 +50,7 @@ Scope:
 |--- |---------------------------------------------------------------|
 | Support additional file types | Parse the files with an extension such as .docx, .csv or .pdf |
 
-# Future Release Plans
+## Future Release Plans
 * Support for large file reads.
 * Support additional storage drives such as S3, Dropbox in addition to Google Drive.
 * Introduce additional caching layers as needed.
@@ -59,3 +59,8 @@ Scope:
 * Introduce logging and monitoring mechanism for identifying issues.
 * Track metrics across services.
 * Support existing ETL tool integrations for on-demand deployment.
+
+## Next
+
+1. Check the [HLD](./../design/hld.md).
+2. Go back to project's [readme.md](../../readme.md)

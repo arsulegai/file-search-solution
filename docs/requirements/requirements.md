@@ -76,3 +76,8 @@ on the content inside the document.
 * The query service authentication/authorization is implemented in simple
   manner for the demo purpose, a detailed deployment walk through
   is needed before the production release.
+
+## Next
+
+1. Check the [PRD/ERD](prd-erd.md)
+2. Go back to project's [readme.md](../../readme.md)

@@ -54,3 +54,7 @@ components either up or down as the situation demands.
 ## MVP Architecture
 
 <img src="./diagrams/mvp-architecture.png" alt="mvp-architecture-diagram" />
+
+## Next
+
+1. Go back to project's [readme.md](../../readme.md)
