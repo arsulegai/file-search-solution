@@ -53,6 +53,10 @@ components either up or down as the situation demands.
 
 ## MVP Architecture
 
+While the earlier discussed design is for extendable solution, it takes
+multiple iterative releases to realize the final solution as expected.
+The current build considers following structure for ease of demo purpose.
+
 <img src="./diagrams/mvp-architecture.png" alt="mvp-architecture-diagram" />
 
 ## Next
