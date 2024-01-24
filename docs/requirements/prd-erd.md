@@ -19,6 +19,7 @@ extend the search capability.
 |                                  | Authorize and read files from the specified directory.                                  |
 |                                  | Read every file which is txt extension, iteratively include any subfolders too.         |
 |                                  | Ingest files as they exist on the Google drive.                                         |
+| On-demand File Reads | An API that triggers the listing and fetching of files from the storage layer |
 | Query Service for User Searches  | Scalable service to connect with elasticsearch and perform the search on user query     |
 | | The API is enabled with the siple secret based authentication                           |
 | Develop a User friendly CLI      | Use simple bash script to utilize the available commands such as CURL to make API call. |
